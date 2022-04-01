@@ -3,7 +3,7 @@
 
 // php select option value from database
 
-
+$hostname = "github";
 $username = "root";
 $password = "";
 $databaseName = "loginsystem";
