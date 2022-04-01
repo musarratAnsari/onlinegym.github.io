@@ -1,6 +1,6 @@
 <?php
 
-
+$dbServername = "github";
 $dbUsername = "root";
 $dbPassword = "";
 $dbName = "loginsystem";
